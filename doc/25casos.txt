@@ -1,0 +1,25 @@
+Argentina;10;20;30;30;20;10
+Bolivia;5;12;6;8;19;29
+Brasil;21;15;24;26;12;13
+Canadá;15;18;19;17;16;12
+Chile;24;25;24;23;12;21
+Colombia;25;26;2;8;15;19
+Ecuador;15;21;13;34;15;38
+El Salvador;25;26;24;21;23;22
+Estados Unidos;20;23;21;2;5;26
+Guatemala;1;2;3;4;5;6
+Honduras;10;11;12;13;14;15
+México;20;21;22;23;24;25
+Nicaragua;26;25;24;23;22;21
+Panamá;16;15;14;13;12;11
+Paraguay;7;8;9;4;5;6
+Perú;1;4;7;8;5;2
+Venezuela;9;8;7;4;5;6
+Puerto Rico;2;5;8;9;6;3
+República Dominicana;2;5;8;7;4;1
+Jamaica;1;2;3;7;8;9
+Costa Rica;4;5;6;9;8;2
+Cuba;2;5;8;4;6;1
+Haití;1;5;9;3;5;7
+Uruguay;8;4;2;6;5;9
+Santa Lucía;7;5;3;2;1;4
